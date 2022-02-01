@@ -3,7 +3,7 @@
 <img width="400" alt="Coding" src="https://cdn.dribbble.com/users/211822/screenshots/15022493/media/df9eafd46dbce90dac14ac50d9582ca4.png">
  </p>
 <br>
-<h3 align="center">I am a Tech Enthusiast who is good at adapting to new technologies. My interests include full-stack developments, problem-solving, writing quality code and system design.I am an effective communicator, problem-solver and an aspiring leader in the making.</h3>
+<h3 align="center">I am a Tech Enthusiast, good at adapting to new technologies. My interests include full-stack developments, problem-solving, writing quality code and system design.I am an effective communicator, problem-solver and an aspiring leader in the making.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavkatira&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavkatira" /> </p>
